@@ -49,3 +49,13 @@ Automation should be used for predictable, repeatable business rules while prese
 Principle:
 
 "Automate the predictable; preserve the judgment."
+
+## Evidence
+
+### Automation Rule
+
+![ClickUp Automation Rule](clickup-automation-rule.png)
+
+### Automation Test
+
+![ClickUp Automation Test](clickup-automation-test.png)
